@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://ilucis.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright 2023 LUCIS</copyright>
+    <lastBuildDate>Fri, 21 Jul 2023 14:46:14 +0800</lastBuildDate><atom:link href="https://ilucis.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://ilucis.com/categories/notes/</link>
+      <pubDate>Fri, 21 Jul 2023 14:46:14 +0800</pubDate>
+      
+      <guid>https://ilucis.com/categories/notes/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
