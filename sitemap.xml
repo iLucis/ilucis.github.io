@@ -3,7 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>https://ilucis.com/thoughts/readings/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
   
+    
+      <url>
+            <loc>https://ilucis.com/share/resources/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/posts/tutorials/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/share/beauty/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/posts/essays/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/thoughts/jottings/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/thoughts/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/posts/notes/</loc>
+            <lastmod>2023-07-21T14:46:14+08:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/share/life/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/thoughts/weekly/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -12,7 +89,20 @@
   
     
       <url>
-            <loc>https://ilucis.com/writes/notes/eb43cf29/</loc>
+            <loc>https://ilucis.com/posts/</loc>
+            <lastmod>2023-07-21T14:46:14+08:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/posts/notes/eb43cf29/</loc>
             <lastmod>2023-07-21T14:46:14+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -29,19 +119,10 @@
     
   
     
-      <url>
-            <loc>https://ilucis.com/writes/</loc>
-            <lastmod>2023-07-21T14:46:14+08:00</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
   
     
       <url>
-            <loc>https://ilucis.com/writes/notes/5a15a400/</loc>
+            <loc>https://ilucis.com/posts/notes/5a15a400/</loc>
             <lastmod>2023-07-20T15:35:22+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -52,7 +133,7 @@
   
     
       <url>
-            <loc>https://ilucis.com/writes/notes/4c3e03e0/</loc>
+            <loc>https://ilucis.com/posts/notes/4c3e03e0/</loc>
             <lastmod>2023-07-20T12:32:34+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -68,7 +149,23 @@
     
   
     
+      <url>
+            <loc>https://ilucis.com/archives/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
   
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://ilucis.com/share/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
 </urlset>
