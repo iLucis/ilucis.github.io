@@ -5,8 +5,6 @@
     <link>https://ilucis.com/posts/essays/</link>
     <description>Recent content in Eassys on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright 2023 LUCIS</copyright>
-    <atom:link href="https://ilucis.com/posts/essays/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://ilucis.com/posts/essays/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

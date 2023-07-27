@@ -5,8 +5,6 @@
     <link>https://ilucis.com/thoughts/weekly/</link>
     <description>Recent content in Weekly on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright 2023 LUCIS</copyright>
-    <atom:link href="https://ilucis.com/thoughts/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://ilucis.com/thoughts/weekly/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
