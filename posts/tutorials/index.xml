@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on </title>
-    <link>https://ilucis.com/posts/tutorials/</link>
+    <link>ilucis.com/posts/tutorials/</link>
     <description>Recent content in Tutorials on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://ilucis.com/posts/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="ilucis.com/posts/tutorials/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
