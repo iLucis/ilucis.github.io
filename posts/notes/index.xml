@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on </title>
-    <link>ilucis.com/posts/notes/</link>
+    <link>/posts/notes/</link>
     <description>Recent content in Notes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2023 LUCIS</copyright>
-    <lastBuildDate>Fri, 21 Jul 2023 14:46:14 +0800</lastBuildDate><atom:link href="ilucis.com/posts/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 14:46:14 +0800</lastBuildDate><atom:link href="/posts/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>ilucis.com/posts/notes/eb43cf29/</link>
+      <link>/posts/notes/eb43cf29/</link>
       <pubDate>Fri, 21 Jul 2023 14:46:14 +0800</pubDate>
       
-      <guid>ilucis.com/posts/notes/eb43cf29/</guid>
+      <guid>/posts/notes/eb43cf29/</guid>
       <description>This is a test note.</description>
       
     </item>
     
     <item>
       <title>SQL语句应用案例</title>
-      <link>ilucis.com/posts/notes/5a15a400/</link>
+      <link>/posts/notes/5a15a400/</link>
       <pubDate>Thu, 20 Jul 2023 15:35:22 +0800</pubDate>
       
-      <guid>ilucis.com/posts/notes/5a15a400/</guid>
+      <guid>/posts/notes/5a15a400/</guid>
       <description>以下是一个复杂的MySQL语句应用案例，用于解释SQL的语句、结构、语法等知识点的应用规则。</description>
       
     </item>
     
     <item>
       <title>MySQL常用语句</title>
-      <link>ilucis.com/posts/notes/4c3e03e0/</link>
+      <link>/posts/notes/4c3e03e0/</link>
       <pubDate>Thu, 20 Jul 2023 12:32:34 +0800</pubDate>
       
-      <guid>ilucis.com/posts/notes/4c3e03e0/</guid>
+      <guid>/posts/notes/4c3e03e0/</guid>
       <description>创建表 CREATE TABLE table_name ( column1 datatype constraints, column2 datatype constraints, .</description>
       
     </item>
