@@ -1502,11 +1502,19 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#1-select语句">1. SELECT语句</a></li>
-        <li><a href="#2-from语句">2. FROM语句</a></li>
-        <li><a href="#3-where语句">3. WHERE语句</a></li>
-        <li><a href="#4-group-by语句">4. GROUP BY语句</a></li>
-        <li><a href="#5-order-by语句">5. ORDER BY语句</a></li>
+        <li>
+          <ul>
+            <li>
+              <ul>
+                <li><a href="#1-select语句">1. SELECT语句</a></li>
+                <li><a href="#2-from语句">2. FROM语句</a></li>
+                <li><a href="#3-where语句">3. WHERE语句</a></li>
+                <li><a href="#4-group-by语句">4. GROUP BY语句</a></li>
+                <li><a href="#5-order-by语句">5. ORDER BY语句</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ul>
@@ -1524,11 +1532,19 @@
   <ul>
     <li>
       <ul>
-        <li><a href="#1-select语句">1. SELECT语句</a></li>
-        <li><a href="#2-from语句">2. FROM语句</a></li>
-        <li><a href="#3-where语句">3. WHERE语句</a></li>
-        <li><a href="#4-group-by语句">4. GROUP BY语句</a></li>
-        <li><a href="#5-order-by语句">5. ORDER BY语句</a></li>
+        <li>
+          <ul>
+            <li>
+              <ul>
+                <li><a href="#1-select语句">1. SELECT语句</a></li>
+                <li><a href="#2-from语句">2. FROM语句</a></li>
+                <li><a href="#3-where语句">3. WHERE语句</a></li>
+                <li><a href="#4-group-by语句">4. GROUP BY语句</a></li>
+                <li><a href="#5-order-by语句">5. ORDER BY语句</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
       </ul>
     </li>
   </ul>
@@ -1598,49 +1614,49 @@
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">ORDER</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="k">c</span><span class="p">.</span><span class="n">customer_name</span><span class="w"> </span><span class="k">ASC</span><span class="p">;</span><span class="w">
 </span></span></span></code></pre></div><p>这个语句包括以下几个部分：</p>
 <div id="1-select语句" class="anchor"></div>
-<h2 class="relative group">1. SELECT语句 
+<h4 class="relative group">1. SELECT语句 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
             style="text-decoration-line: none !important;" href="#1-select%e8%af%ad%e5%8f%a5" aria-label="Anchor">#</a></span>        
     
-</h2>
+</h4>
 <p>这个语句使用SELECT关键字指定要检索的字段，包括订单编号、客户名称和总金额。其中，总金额使用SUM函数计算得出，并使用AS关键字指定别名为total_amount。</p>
 <div id="2-from语句" class="anchor"></div>
-<h2 class="relative group">2. FROM语句 
+<h4 class="relative group">2. FROM语句 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
             style="text-decoration-line: none !important;" href="#2-from%e8%af%ad%e5%8f%a5" aria-label="Anchor">#</a></span>        
     
-</h2>
+</h4>
 <p>这个语句使用FROM关键字指定要检索数据的表，包括订单表（orders）、客户表（customers）和订单明细表（order_details）。使用INNER JOIN关键字进行表之间的连接，连接条件分别为订单表的客户编号和客户表的客户编号相等，订单表的订单编号和订单明细表的订单编号相等。</p>
 <div id="3-where语句" class="anchor"></div>
-<h2 class="relative group">3. WHERE语句 
+<h4 class="relative group">3. WHERE语句 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
             style="text-decoration-line: none !important;" href="#3-where%e8%af%ad%e5%8f%a5" aria-label="Anchor">#</a></span>        
     
-</h2>
+</h4>
 <p>这个语句使用WHERE关键字指定检索条件，包括订单表的订单日期等于2022年1月1日。</p>
 <div id="4-group-by语句" class="anchor"></div>
-<h2 class="relative group">4. GROUP BY语句 
+<h4 class="relative group">4. GROUP BY语句 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
             style="text-decoration-line: none !important;" href="#4-group-by%e8%af%ad%e5%8f%a5" aria-label="Anchor">#</a></span>        
     
-</h2>
+</h4>
 <p>这个语句使用GROUP BY关键字指定分组字段，包括订单编号和客户名称。这个语句的作用是将检索结果按照订单编号和客户名称进行分组，以便于计算每个订单的总金额。</p>
 <div id="5-order-by语句" class="anchor"></div>
-<h2 class="relative group">5. ORDER BY语句 
+<h4 class="relative group">5. ORDER BY语句 
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
             style="text-decoration-line: none !important;" href="#5-order-by%e8%af%ad%e5%8f%a5" aria-label="Anchor">#</a></span>        
     
-</h2>
+</h4>
 <p>这个语句使用ORDER BY关键字指定排序方式，按照客户名称进行升序排序。</p>
 <p>以上是一个相对复杂的MySQL语句应用案例，涉及到SELECT、FROM、INNER JOIN、WHERE、GROUP BY和ORDER BY等多个知识点的应用。这个语句的作用是从多个表中检索数据，并按照一定的规则进行计算和排序，得出符合要求的数据。在实际应用中，需要根据具体的业务需求和数据结构，灵活运用各种SQL语句，以达到最优的数据查询和处理效果。</p>
 
