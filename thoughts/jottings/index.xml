@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jottings on </title>
-    <link>/thoughts/jottings/</link>
+    <link>https://ilucis.com/thoughts/jottings/</link>
     <description>Recent content in Jottings on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2023 LUCIS</copyright>
-    <atom:link href="/thoughts/jottings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ilucis.com/thoughts/jottings/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
