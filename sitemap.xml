@@ -4,7 +4,55 @@
   
     
       <url>
-            <loc>https://ilucis.com/thoughts/</loc>
+            <loc>/thoughts/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>/posts/</loc>
+            <lastmod>2023-08-08T17:20:13+08:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/posts/tutorials/shortcodes/</loc>
+            <lastmod>2023-08-08T17:20:13+08:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/posts/tutorials/</loc>
+            <lastmod>2023-08-08T17:20:13+08:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/</loc>
+            <lastmod>2023-08-08T17:20:13+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
           </url>
@@ -18,7 +66,7 @@
   
     
       <url>
-            <loc>https://ilucis.com/posts/tutorials/4rt5re89/</loc>
+            <loc>/posts/tutorials/a2525e52/</loc>
             <lastmod>2023-07-30T15:20:22+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -26,39 +74,12 @@
     
   
     
-      <url>
-            <loc>https://ilucis.com/posts/</loc>
-            <lastmod>2023-07-30T15:20:22+08:00</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
   
     
   
     
       <url>
-            <loc>https://ilucis.com/posts/tutorials/</loc>
-            <lastmod>2023-07-30T15:20:22+08:00</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/</loc>
-            <lastmod>2023-07-30T15:20:22+08:00</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/posts/notes/</loc>
+            <loc>/posts/notes/</loc>
             <lastmod>2023-07-20T15:35:22+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -69,7 +90,7 @@
   
     
       <url>
-            <loc>https://ilucis.com/posts/notes/5a15a400/</loc>
+            <loc>/posts/notes/5a15a400/</loc>
             <lastmod>2023-07-20T15:35:22+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -77,10 +98,8 @@
     
   
     
-  
-    
       <url>
-            <loc>https://ilucis.com/posts/notes/4c3e03e0/</loc>
+            <loc>/posts/notes/4c3e03e0/</loc>
             <lastmod>2023-07-20T12:32:34+08:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
@@ -89,7 +108,7 @@
   
     
       <url>
-            <loc>https://ilucis.com/about/</loc>
+            <loc>/about/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
           </url>
@@ -97,57 +116,7 @@
   
     
       <url>
-            <loc>https://ilucis.com/archives/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/share/beauty/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/posts/essays/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/thoughts/jottings/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/share/life/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/thoughts/readings/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://ilucis.com/share/resources/</loc>
+            <loc>/archives/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
           </url>
@@ -157,7 +126,7 @@
   
     
       <url>
-            <loc>https://ilucis.com/share/</loc>
+            <loc>/share/beauty/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
           </url>
@@ -165,7 +134,57 @@
   
     
       <url>
-            <loc>https://ilucis.com/thoughts/weekly/</loc>
+            <loc>/posts/essays/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/thoughts/jottings/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/share/life/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/thoughts/readings/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/share/resources/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/share/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/thoughts/weekly/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.5</priority>
           </url>

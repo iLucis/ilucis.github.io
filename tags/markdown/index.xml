@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>markdown on </title>
-    <link>https://ilucis.com/tags/markdown/</link>
+    <link>/tags/markdown/</link>
     <description>Recent content in markdown on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright 2023 LUCIS</copyright>
-    <lastBuildDate>Sun, 30 Jul 2023 15:20:22 +0800</lastBuildDate><atom:link href="https://ilucis.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jul 2023 15:20:22 +0800</lastBuildDate><atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown</title>
-      <link>https://ilucis.com/posts/tutorials/4rt5re89/</link>
+      <title>Markdown基础用法</title>
+      <link>/posts/tutorials/a2525e52/</link>
       <pubDate>Sun, 30 Jul 2023 15:20:22 +0800</pubDate>
       
-      <guid>https://ilucis.com/posts/tutorials/4rt5re89/</guid>
+      <guid>/posts/tutorials/a2525e52/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
